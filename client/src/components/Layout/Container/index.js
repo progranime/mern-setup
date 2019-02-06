@@ -1,7 +1,7 @@
 import React from 'react'
 
-const Container = () => {
+const Index = () => {
     return <div>Container</div>
 }
 
-export default Container
+export default Index
